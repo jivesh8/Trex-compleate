@@ -107,7 +107,7 @@ function reset(){
   
   trex.changeAnimation("running",trex_running);
   ground.velocityX=-4;
-  score = 0;
+  score = 1;
   
 }
 
